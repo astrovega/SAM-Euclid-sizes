@@ -33,7 +33,7 @@ See also [Buitrago & Trujillo 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A.
 
 This folder contains segmentation masks for each galaxy in FITS format. Each file corresponds to a single galaxy and can be visualized using standard astronomical software.
 
-- `images/`
+- `data/images/`
 
 This folder contains PDF visualizations for each galaxy. Each PDF includes:
 - **Galaxy Parameters**: A table summarizing key properties (e.g., size, redshift, segmentation metrics).
