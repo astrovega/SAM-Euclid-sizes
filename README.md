@@ -31,7 +31,7 @@ See also [Buitrago & Trujillo 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A.
 
 - `data/segmentation_masks/`
 
-This folder contains segmentation masks for each galaxy in PNG format.
+This folder contains averaged segmentation masks for each galaxy in PNG format.
 
 - `data/images/`
 
