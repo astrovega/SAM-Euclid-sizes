@@ -31,7 +31,7 @@ See also [Buitrago & Trujillo 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A.
 
 - `data/segmentation_masks/`
 
-This folder contains segmentation masks for each galaxy in FITS format. Each file corresponds to a single galaxy and can be visualized using standard astronomical software.
+This folder contains segmentation masks for each galaxy in PNG format.
 
 - `data/images/`
 
