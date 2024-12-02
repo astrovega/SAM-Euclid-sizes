@@ -36,6 +36,7 @@ This folder contains segmentation masks for each galaxy in FITS format. Each fil
 - `data/images/`
 
 This folder contains PDF visualizations for each galaxy. Each PDF includes:
+
 - **Galaxy Parameters**: A table summarizing key properties (e.g., size, redshift, segmentation metrics).
 - **RGB Image**: Composite image of the galaxy.
 - **Averaged Segmentation Map**: Visualization of the segmentation results from SAM along with the truncation at a 0.5 and 0.7 thresholds.
