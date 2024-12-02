@@ -17,9 +17,9 @@ This file contains galaxy size measurements and associated parameters. The colum
 | `sigma_edge`           | Error in edge radius of the galaxy as measured by BT24 (in kpc).             |
 | `ar`                   | Minor to major axis ratio of the elliptical truncation of the galaxy (`b/a`).|
 | `pa`                   | Position angle of the elliptical truncation of the galaxy (in degrees).      |
-| `F1_score`             | F1 score of the SAM segmentation for this galaxy (majority voting).          |
-| `recall`               | Recall of the SAM segmentation for this galaxy (majority voting).            |
-| `precision`            | Precision of the SAM segmentation for this galaxy (majority voting).         |
+| `f1`                   | F1 score of the SAM segmentation for this galaxy (majority voting).          |
+| `rec`                  | Recall of the SAM segmentation for this galaxy (majority voting).            |
+| `prec`                 | Precision of the SAM segmentation for this galaxy (majority voting).         |
 | `r_0.5`                | Galaxy size derived from the majority voting at the 0.5 threshold (in kpc).  |
 | `Deltar_0.5`           | Relative error in the measurement of the size of the SAM truncation          |
 
